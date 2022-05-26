@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Postman collection
+https://www.getpostman.com/collections/e9549db747bc44578e39
